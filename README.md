@@ -1,4 +1,4 @@
-# Medical Image Classification - Complete Assignment Solution
+# Medical Image Classification
 
 > **Hybrid CNN-Transformer Architecture for Multi-Class Medical Image Classification**
 
@@ -398,5 +398,6 @@ Test AUC: 0.9763
 
 Classification Report:
                  precision    recall  f1-score   support
+
 
      Bacterial       0.92      0.93      0.93
